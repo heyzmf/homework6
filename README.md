@@ -43,8 +43,8 @@
 
 <script src="jquery-3.1.1.min.js"></script>
 <script src="swiper.jquery.min.js"></script>
-<script>        
-  var mySlide = new Swiper ('.swiper-container', {
+<script>
+    var mySlide = new Swiper ('.swiper-container', {
     loop: true,
     nextButton: '.swiper-button-next',
     prevButton: '.swiper-button-prev',
