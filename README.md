@@ -2,13 +2,13 @@
 <head>
 <meta charset="utf-8">
 <title>网传小官网</title>
-<link rel="stylesheet" type="text/css" href="assets/style.css" />
-<link rel="stylesheet" type="text/css" href="assets/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="swiper-3.4.0.min.css" />
 </head>
 <body>
 <div class="content">
    <div class="header">
-     <img src="img/logo.png">
+     <img src="logo.png">
         <div class="quickLink">
             <a href="#">教师进入</a>
             <a href="#">教师进入</a>
@@ -41,8 +41,8 @@
 </div>
 </body>
 
-<script src="assets/jquery-3.1.1.min.js"></script>
-<script src="assets/swiper.jquery.min.js"></script>
+<script src="jquery-3.1.1.min.js"></script>
+<script src="swiper.jquery.min.js"></script>
 <script>        
   var mySlide = new Swiper ('.swiper-container', {
     loop: true,
